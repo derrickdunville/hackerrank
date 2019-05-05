@@ -1,4 +1,4 @@
-#2D Array - DS
+# 2D Array - DS
 
 Given a **6 x 6** 2D Array, *arr*:
 
