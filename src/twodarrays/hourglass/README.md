@@ -57,7 +57,7 @@ Complete the function hourglassSum in the editor below. It should return an inte
 
 hourglassSum has the following parameter(s):
 
-..* arr: an array of integers
+* arr: an array of integers
 
 ### Input Format
 
@@ -65,8 +65,8 @@ Each of the **6** lines of inputs *arr[i]* contains **6** space-separated intege
 
 ### Constraints
 
-..* **-9 <=** *arr[i][j]* **<= 9**
-..* **0 <=** *i,j* **<= 5**
+* **-9 <=** *arr[i][j]* **<= 9**
+* **0 <=** *i,j* **<= 5**
 
 ### Output Format
 
