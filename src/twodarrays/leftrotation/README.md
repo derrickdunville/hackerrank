@@ -20,9 +20,9 @@ The second line contains  space-separated integers .
 
 ### Constraints
 
-* ** 1 <= n <= 10^5 **
-* ** 1 <= d <= n **
-* ** 1 <= ** *a[i]* **<= 10^6 **
+* **1 <= n <= 10^5**
+* **1 <= d <= n**
+* **1 <=** *a[i]* **<= 10^6**
 
 ### Output Format 
 
