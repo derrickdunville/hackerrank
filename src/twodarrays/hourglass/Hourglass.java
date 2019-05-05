@@ -1,4 +1,4 @@
-package twodarrays;
+package twodarrays.hourglass;
 
 import java.io.*;
 import java.math.*;
