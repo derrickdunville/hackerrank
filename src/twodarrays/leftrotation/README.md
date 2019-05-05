@@ -10,8 +10,8 @@ Complete the function rotLeft in the editor below. It should return the resultin
 
 rotLeft has the following parameter(s):
 
-..* An array of integers *a*.
-..* An integer *d*, the number of rotations.
+* An array of integers *a*.
+* An integer *d*, the number of rotations.
 
 ### Input Format
 
