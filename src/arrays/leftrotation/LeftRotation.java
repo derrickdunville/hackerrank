@@ -1,4 +1,4 @@
-package twodarrays.leftrotation;
+package arrays.leftrotation;
 
 import java.io.*;
 import java.math.*;
