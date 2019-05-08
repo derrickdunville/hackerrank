@@ -54,19 +54,19 @@ Too chaotic
 
 The initial state:
 
-![alt text](https://github.com/derrickdunville/hackerrank/blob/master/src/twodarrays/newyearchaos/pic1.png?raw=true " ")
+![alt text](https://github.com/derrickdunville/hackerrank/blob/master/src/arrays/newyearchaos/pic1.png?raw=true " ")
 
 After person **5** moves one position ahead by bribing person **4**:
 
-![alt text](https://github.com/derrickdunville/hackerrank/blob/master/src/twodarrays/newyearchaos/pic2.png?raw=true " ")
+![alt text](https://github.com/derrickdunville/hackerrank/blob/master/src/arrays/newyearchaos/pic2.png?raw=true " ")
 
 Now person **5** moves another position ahead by bribing person **3**:
 
-![alt text](https://github.com/derrickdunville/hackerrank/blob/master/src/twodarrays/newyearchaos/pic3.png?raw=true " ")
+![alt text](https://github.com/derrickdunville/hackerrank/blob/master/src/arrays/newyearchaos/pic3.png?raw=true " ")
 
 And person **2** moves one position ahead by bribing person **1**:
 
-![alt text](https://github.com/derrickdunville/hackerrank/blob/master/src/twodarrays/newyearchaos/pic4.png?raw=true " ")
+![alt text](https://github.com/derrickdunville/hackerrank/blob/master/src/arrays/newyearchaos/pic4.png?raw=true " ")
 
 So the final state is **2,1,5,3,4** after three bribing operations.
 
