@@ -26,7 +26,7 @@ Each of the next  pairs of lines are as follows:
 ## Constraints
 
 * **1** <= *t* <= **10**
-* **1** <= n <= **10^5**
+* **1** <= *n* <= **10^5**
  
 
 ## Output Format
